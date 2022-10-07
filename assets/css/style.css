@@ -1,0 +1,33 @@
+
+body{ 
+    font-family: 'Roboto', sans-serif;
+    background:linear-gradient(45deg,hsla(120deg,50%,25%,1),hsla(180deg,100%,40%,1));
+    padding:50px 100px;
+    border-style: dotted;
+    margin: 50px;
+    min-width: 200px;
+  
+}  
+img{
+    width:auto; max-width: 380px;
+    border-end-end-radius: 200px;
+    border-style: double;
+   
+}
+
+h1 {
+    color: hsla(250,100%,50%,0.5);
+    text-decoration: overline;
+    display: inline-block;
+    
+}
+h2{
+    display: inline;
+    text-decoration: underline;
+}
+table{
+    background-image: url();
+}
+.footer{
+    text-align:center;
+}
